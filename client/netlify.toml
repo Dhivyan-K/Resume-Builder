@@ -4,7 +4,7 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "https://your-render-url.onrender.com/api/:splat"
+  to = "https://resume-builder-server-6hqx.onrender.com/api/:splat"
   status = 200
   force = true
 
